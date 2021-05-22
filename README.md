@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **BatuhanYilmazzz/BatuhanYilmazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Hi there, I'm Batuhan Yılmaz <img src="assets/hi.gif" width="30px">
