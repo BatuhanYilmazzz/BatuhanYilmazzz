@@ -1,4 +1,4 @@
-## Hi there, I'm Batuhan Yılmaz <img src="assets/hi.gif" width="30px">
+## Hi there, I'm Batuhan Yılmaz
 
 [![Gmail Badge](https://img.shields.io/badge/-a.batuhan.yilmaz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:root@ahmetcanaydemir.com "Connect via Email")
 [![Twitter Badge](https://img.shields.io/badge/-@batuhnnylmazz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=batuhnnylmazz "Follow on Twitter")
