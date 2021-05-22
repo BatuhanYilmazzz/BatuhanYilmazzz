@@ -1,11 +1,6 @@
-### Hi there 👋
-
-**BatuhanYilmazzz/BatuhanYilmazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi there, I'm Batuhan Yılmaz <img src="assets/hi.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-a.batuhan.yilmaz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:root@ahmetcanaydemir.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Ahmet%Batuhan%Yılmaz-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetbatuhanyilmaz/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@batuhnnylmazz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=batuhnnylmazz "Follow on Twitter")
 
 <div style="margin-bottom: 40px"></div>
