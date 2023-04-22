@@ -6,7 +6,7 @@
 <div style="margin-bottom: 40px"></div>
 
 
-- 🔭 I’m currently working as Frontend Developer
+- 🔭 I’m currently working as Senior Frontend Developer
 - 💬 Ask me about javascript, React, React Native,Typescript
 
 <div style="margin-bottom: 40px"></div>
